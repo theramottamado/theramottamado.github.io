@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Tamado's Kitchen
-email: kitchen@ramottamado.dev
+email: kitchen@tamado.codes
 description: Tamado's Kitchen
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
